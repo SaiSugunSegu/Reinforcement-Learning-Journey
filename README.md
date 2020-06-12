@@ -1,1 +1,1 @@
-# Q-learning
+# Implementation of Value Iteration using FrozenLake
